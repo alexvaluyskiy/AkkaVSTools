@@ -1,0 +1,5 @@
+C:\Projects\AkkaVSTools\VSProjectTemplateReceiveActor\bin\Debug\ProjectTemplates\CSharp\1033\VSProjectTemplateReceiveActor.zip
+C:\Projects\AkkaVSTools\VSProjectTemplateReceiveActor\obj\Debug\VSProjectTemplateReceiveActor.csprojResolveAssemblyReference.cache
+C:\Projects\AkkaVSTools\VSProjectTemplateReceiveActor\obj\Debug\CSharp\1033\VSProjectTemplateReceiveActor.zip
+C:\Projects\AkkaVSTools\VSProjectTemplateReceiveActor\obj\Debug\VSProjectTemplateReceiveActor.dll
+C:\Projects\AkkaVSTools\VSProjectTemplateReceiveActor\obj\Debug\VSProjectTemplateReceiveActor.pdb
