@@ -1,5 +1,0 @@
-C:\Projects\AkkaVSTools\VSItemTemplateReceiveActor\bin\Debug\ItemTemplates\CSharp\Akka.Net\1033\VSItemTemplateReceiveActor.zip
-C:\Projects\AkkaVSTools\VSItemTemplateReceiveActor\obj\Debug\VSItemTemplateReceiveActor.csprojResolveAssemblyReference.cache
-C:\Projects\AkkaVSTools\VSItemTemplateReceiveActor\obj\Debug\CSharp\Akka.Net\1033\VSItemTemplateReceiveActor.zip
-C:\Projects\AkkaVSTools\VSItemTemplateReceiveActor\obj\Debug\VSItemTemplateReceiveActor.dll
-C:\Projects\AkkaVSTools\VSItemTemplateReceiveActor\obj\Debug\VSItemTemplateReceiveActor.pdb
